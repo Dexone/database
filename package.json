@@ -8,7 +8,6 @@
     "server": "json-server --watch db.json"
   },
   "dependencies": {
-    "vue": "^3.3.4"
   },
   "devDependencies": {
 
